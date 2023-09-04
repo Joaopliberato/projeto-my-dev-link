@@ -17,6 +17,9 @@ Links Sociais <br/>
 <p align="center">
   <img alt="projeto DevLinks" src="assets/preview.jpg" width="100%">
 </p>
+<p align="center">
+  <img alt="projeto DevLinks" src="assets/preview2.jpg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
